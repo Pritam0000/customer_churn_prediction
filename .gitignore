@@ -1,0 +1,21 @@
+# Python-related
+*.pyc
+__pycache__/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+
+# Data files
+*.csv
+
+# Model files
+*.pkl
+
+# Streamlit cache
+.streamlit/
